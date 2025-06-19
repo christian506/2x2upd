@@ -34,7 +34,7 @@ df_f = df[
 
 # ── Title & Metrics ────────────────────────────────────────────────────────────
 st.title("🚬 Global Smoking Dashboard")
-st.markdown("Explore global smoking prevalence in one view—no scrolling needed.")
+st.markdown("Explore global smoking prevalence")
 
 col = "Data.Percentage.Total"
 m1, m2, m3 = st.columns(3)
